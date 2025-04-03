@@ -70,5 +70,4 @@ router rip
 - *[Kayky](https://github.com/KaykyyPiress)*
 ---
 
-Sinta-se à vontade para contribuir, sugerir melhorias ou tirar dúvidas.
 
