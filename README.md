@@ -67,9 +67,7 @@ router rip
 
 ## Autor
 
-- [Seu Nome]
-- [Contato ou GitHub]
-
+- *[Kayky](https://github.com/KaykyyPiress)*
 ---
 
 Sinta-se à vontade para contribuir, sugerir melhorias ou tirar dúvidas.
